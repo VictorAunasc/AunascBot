@@ -1,0 +1,82 @@
+[
+  {
+    "termos": ["inflação", "aumento de preços", "perda do poder de compra"],
+    "resposta": "Inflação é o aumento geral e contínuo dos preços de bens e serviços. Quando a inflação está alta, o dinheiro perde poder de compra ao longo do tempo, ou seja, com a mesma quantia você compra menos coisas."
+  },
+  {
+    "termos": ["deflação", "queda de preços"],
+    "resposta": "Deflação é a queda generalizada dos preços por um período prolongado. Pode parecer algo bom no curto prazo, mas em excesso costuma estar ligada a crises econômicas, com queda de consumo, de produção e aumento do desemprego."
+  },
+  {
+    "termos": ["pib", "produto interno bruto", "tamanho da economia"],
+    "resposta": "PIB (Produto Interno Bruto) é a soma de todos os bens e serviços finais produzidos em um país em um determinado período. Ele é usado como indicador do tamanho e do desempenho da economia."
+  },
+  {
+    "termos": ["juros simples"],
+    "resposta": "Juros simples são calculados apenas sobre o valor inicial (capital), sem considerar juros sobre juros. São mais usados em exemplos didáticos e alguns contratos específicos."
+  },
+  {
+    "termos": ["juros compostos", "juros sobre juros", "capitalização composta"],
+    "resposta": "Juros compostos são juros calculados sobre o valor inicial e também sobre os juros acumulados dos períodos anteriores. É o famoso efeito 'bola de neve', que pode trabalhar a favor em investimentos e contra em dívidas."
+  },
+  {
+    "termos": ["cdi", "taxa cdi"],
+    "resposta": "O CDI (Certificado de Depósito Interbancário) é uma taxa de juros usada como referência para muitos investimentos de renda fixa no Brasil, como CDBs. Muitos produtos pagam, por exemplo, 100% do CDI."
+  },
+  {
+    "termos": ["selic", "taxa selic"],
+    "resposta": "A taxa Selic é a taxa básica de juros da economia brasileira. Ela influencia praticamente todos os outros juros do mercado, como empréstimos, financiamentos e muitos investimentos de renda fixa."
+  },
+  {
+    "termos": ["renda fixa", "investimento seguro", "tesouro direto", "cdb"],
+    "resposta": "Renda fixa é um tipo de investimento em que as regras de rendimento são definidas no momento da aplicação. Exemplos: Tesouro Direto, CDB, LCI e LCA. Em geral, tem menos risco que a renda variável e é usada para objetivos de curto e médio prazo."
+  },
+  {
+    "termos": ["renda variável", "ações", "bolsa de valores", "fiis"],
+    "resposta": "Renda variável é um tipo de investimento em que a rentabilidade não é previsível. Exemplos: ações, fundos imobiliários (FIIs) e ETFs. O risco é maior, mas o potencial de retorno no longo prazo também é mais alto."
+  },
+  {
+    "termos": ["ações", "ações na bolsa", "ser sócio de empresa"],
+    "resposta": "Ações são pequenas partes de uma empresa. Ao comprar ações, você se torna sócio daquela empresa e participa dos resultados, seja por meio de dividendos, seja pela valorização (ou desvalorização) do preço das ações."
+  },
+  {
+    "termos": ["fundos imobiliários", "fiis", "fundo imobiliário"],
+    "resposta": "Fundos Imobiliários (FIIs) são fundos que investem em imóveis ou títulos ligados ao setor imobiliário. O investidor compra cotas e, em geral, recebe rendimentos mensais que vêm de aluguéis ou operações do fundo."
+  },
+  {
+    "termos": ["etf", "etfs", "fundos de índice"],
+    "resposta": "ETFs são fundos de índice negociados em bolsa. Eles replicam um índice de referência, como o Ibovespa, permitindo investir em uma carteira diversificada de ativos com uma única aplicação."
+  },
+  {
+    "termos": ["reserva de emergência", "reserva financeira"],
+    "resposta": "Reserva de emergência é um valor guardado para imprevistos, como desemprego, problemas de saúde ou gastos inesperados. Geralmente recomenda-se ter de 3 a 6 meses de despesas mensais em investimentos seguros e com alta liquidez."
+  },
+  {
+    "termos": ["diversificação", "diversificar investimentos", "não colocar todos os ovos na mesma cesta"],
+    "resposta": "Diversificação é a estratégia de dividir o dinheiro entre diferentes tipos de investimentos (renda fixa, renda variável, setores diferentes etc.) para reduzir o risco. Se um ativo vai mal, outros podem compensar."
+  },
+  {
+    "termos": ["liquidez", "resgatar rápido", "facilidade de resgate"],
+    "resposta": "Liquidez é a facilidade de transformar um investimento em dinheiro na conta. Investimentos com alta liquidez permitem resgates rápidos; já os de baixa liquidez podem ter prazos longos ou multas para retirada antecipada."
+  },
+  {
+    "termos": ["perfil de investidor", "conservador", "moderado", "arrojado"],
+    "resposta": "Perfil de investidor é a combinação de tolerância a risco, objetivos e horizonte de tempo de uma pessoa. De forma geral, perfis conservadores priorizam segurança, moderados equilibram risco e retorno, e arrojados aceitam mais oscilação em busca de ganhos maiores."
+  },
+  {
+    "termos": ["endividamento", "estar endividado", "dívidas"],
+    "resposta": "Endividamento é quando uma pessoa ou empresa assume compromissos financeiros que precisam ser pagos no futuro, como empréstimos, financiamentos ou faturas de cartão de crédito. O problema começa quando as dívidas fogem do controle e comprometem a renda."
+  },
+  {
+    "termos": ["cartão de crédito", "fatura do cartão", "crédito rotativo"],
+    "resposta": "O cartão de crédito é uma forma de pagamento que permite comprar agora e pagar depois. Se a fatura não é paga integralmente, entra o crédito rotativo, que normalmente tem juros muito altos e pode gerar uma bola de neve de dívidas."
+  },
+  {
+    "termos": ["orçamento pessoal", "controle de gastos", "planilha de gastos"],
+    "resposta": "Orçamento pessoal é o planejamento de entradas e saídas de dinheiro. Envolve registrar quanto você ganha, quanto gasta e para onde o dinheiro está indo, ajudando a cortar excessos e direcionar mais recursos para investimentos e objetivos."
+  },
+  {
+    "termos": ["educação financeira", "aprender sobre dinheiro"],
+    "resposta": "Educação financeira é o processo de aprender a lidar melhor com o dinheiro: ganhar, gastar, poupar, investir e se proteger de riscos. Quanto melhor a educação financeira, maiores as chances de tomar decisões saudáveis no curto, médio e longo prazo."
+  }
+]

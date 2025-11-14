@@ -1,6 +1,5 @@
 # main.py - ponto de entrada do AunasBot
-
-from modules import economia, investimentos, simulacoes, utils #importa os modulos
+from modules import economia, investimentos, simulacoes, utils, conhecimento, quiz, historico, decisao
 
 def exibir_menu():
     print("\n === AunascBot $$$ Educação Financeira===")
@@ -8,14 +7,24 @@ def exibir_menu():
     print("2 - Tipos de Investimentos")
     print("3 - Simular Poupança")
     print("4 - Dica Financeira Aleatória")
+    print("5 - Pesquisar conceito financeiro")
+    print("6 - Quiz de Educação Financeira")
+    print("7 - Ver histórico de simulações")
+    print("8 - Assistente de decisão financeira")
     print("0 - Sair")
 
+
+
+
+
 def main():
-    utils.boas_vindas()
+    utils.boas_vindas_personalizadas()
+    utils.dica_automatica_inicio()
 
     while True:
         exibir_menu()
-        opcao = input("Escolja uma opção: ")
+        opcao = input("Escolha uma opção: ")
+
         if opcao == "1":
             economia.explicar_conceito()
         elif opcao == "2":
@@ -26,11 +35,20 @@ def main():
             utils.dica_financeira()
             utils.pausar()
             utils.limpar_tela()
+        elif opcao == "5":
+            conhecimento.pesquisar_conceito()
+        elif opcao == "6":
+            quiz.quiz_financeiro()
+        elif opcao == "7":
+            historico.ver_historico()
+        elif opcao == "8":
+            decisao.assistente_decisao()
         elif opcao == "0":
             print("Saindo...")
             break
         else:
             print("Opção Inválida. Tente novamente.")
+
 
 if __name__ == "__main__":
     main()
